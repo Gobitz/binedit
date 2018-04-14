@@ -1,3 +1,7 @@
+# Binedit
+# Copyright (c) 2018 Gaël Bigot
+
+
 from binascii import *
 
 def israwbin(t):
